@@ -6,6 +6,6 @@
 .container {
     height: calc(100vh - 25vh) ;
     width:calc(50vw - 25vw- 22px );
-    background: red;   
+    background: blue;   
      
 }
